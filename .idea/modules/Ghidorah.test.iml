@@ -12,6 +12,15 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../lib/JTattoo-1.6.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://D:/Analysis/Tools/Ghidra/9.0/Ghidra/Framework/DB/lib/DB.jar!/" />
         </CLASSES>
         <JAVADOC />
