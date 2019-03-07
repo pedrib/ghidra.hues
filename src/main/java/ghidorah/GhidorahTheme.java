@@ -8,7 +8,6 @@ import java.awt.*;
 
 /**
  * @author quosego
- *
  */
 public class GhidorahTheme extends DefaultMetalTheme {
     private static DefaultMetalTheme theme;
@@ -28,7 +27,7 @@ public class GhidorahTheme extends DefaultMetalTheme {
     private void setupTheme() {
         theme = new DefaultMetalTheme();
         ColorUIResource uiResource = theme.getControl();
-        hsbOffset = Color.RGBtoHSB( uiResource.getRed(), uiResource.getGreen(), uiResource.getBlue(), null);
+        hsbOffset = Color.RGBtoHSB(uiResource.getRed(), uiResource.getGreen(), uiResource.getBlue(), null);
     }
 
     private void setHueOffset(int hueOffset) {
