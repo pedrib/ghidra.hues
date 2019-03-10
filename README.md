@@ -13,7 +13,7 @@ This is a simple plugin which provides different colors to the GHIDRA environmen
 ## Install
 
 1. Download the recent [release][ref-releases]
-2. Extract Hues folder from Zip into GHIDRA_INSTALL_DIR//Extensions//
+2. Extract Hues folder from Zip into GHIDRA_INSTALL_DIR//Ghidra//Extensions//
 3. Start Ghidra, a prompt of a new plugin has been found should show
 4. Activate prompt and start using
 
