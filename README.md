@@ -8,9 +8,16 @@ This is a simple plugin which provides different colors to the GHIDRA environmen
 
 ## Demo
 
-![](./doc/images/MPeg6GJ4Zr.gif)
+![][ref-demo]
 
-## Recent Todos
+## Install
+
+1. Download the recent [release][ref-releases]
+2. Extract Hues folder from Zip into GHIDRA_INSTALL_DIR//Extensions//
+3. Start Ghidra, a prompt of a new plugin has been found should show
+4. Activate prompt and start using
+
+## Todos
 
 - [x] Taskbar Icon
 - [x] Clean Source Code
@@ -22,10 +29,20 @@ This is a simple plugin which provides different colors to the GHIDRA environmen
 
 ## Origin
 
-+ [issues #13](https://github.com/NationalSecurityAgency/ghidra/issues/13)
++ [issue #13][ref-issue]
+
+
+## Developer
+
+* ["quosego"][ref-self]
 
 ## License
 
-This project is licensed under the [Apache License 2.0 (Apache-2.0)][ref-AP2]. See the [LICENSE.md](./LICENSE.md) file for details.
+This project is licensed under the [Apache License 2.0 (Apache-2.0)][ref-AP2]. See the [LICENSE.md][ref-lic-path] file for details.
 
+[ref-demo]: ./doc/images/MPeg6GJ4Zr.gif
+[ref-releases]: https://github.com/quosego/ghidra.hues/releases
+[ref-issue]: https://github.com/NationalSecurityAgency/ghidra/issues/13
+[ref-self]: https://github.com/quosego
+[ref-lic-path]: ./LICENSE.md
 [ref-AP2]: https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)

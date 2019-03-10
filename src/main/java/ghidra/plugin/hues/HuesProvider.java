@@ -9,6 +9,7 @@ import docking.action.DockingActionIf;
 import ghidra.util.HelpLocation;
 import resources.ResourceManager;
 
+import javax.swing.*;
 import java.awt.event.MouseEvent;
 
 /**
