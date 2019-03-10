@@ -50,6 +50,7 @@ public class HuesPlugin extends Plugin {
 
   @Override
   protected void dispose() {
+      super.dispose();
     provider.close();
   }
 
