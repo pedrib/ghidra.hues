@@ -4,7 +4,7 @@
 
 ## Brief
 
-This is a simple plugin which provides different colors to GHIDRA environment.
+This is a simple plugin which provides different colors to the GHIDRA environment.
 
 ## Demo
 
