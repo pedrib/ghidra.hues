@@ -10,7 +10,13 @@ This is a simple plugin which provides different colors to the GHIDRA environmen
 
 ![][ref-demo]
 
-## Install
+## Building
+
+Run gradlew.bat
+
+Gradle build outputs can be found in Hues//dist//ghidra_A.B_PUBLIC_ZZZZYYXX_Hues.zip
+
+## Installing
 
 1. Download the recent [release][ref-releases]
 2. Extract Hues folder from Zip into GHIDRA_INSTALL_DIR//Ghidra//Extensions//
@@ -21,6 +27,7 @@ This is a simple plugin which provides different colors to the GHIDRA environmen
 
 - [x] Taskbar Icon
 - [x] Clean Source Code
+- [ ] Avoid theme overwrites
 - [x] Profile Management
 - [ ] Update Documentation
 - [x] Display Preview Sample
