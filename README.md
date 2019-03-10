@@ -13,6 +13,7 @@ This is a simple plugin which provides different colors to the GHIDRA environmen
 ## Building
 
 Run gradlew.bat
+
 Gradle build outputs can be found in Hues//dist//ghidra_A.B_PUBLIC_ZZZZYYXX_Hues.zip
 
 ## Installing
