@@ -25,7 +25,7 @@ import resources.ResourceManager;
 
 /**
  * @author quosego <https://github.com/quosego>
- * @version Mar 9, 2019
+ * @version Mar 10, 2019
  */
 public class HuesPlugin extends Plugin {
   private static final String PLUGIN_TITLE = "Hues - The Color Plugin";
