@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="Ghidorah.main" target="11" />
-      <module name="Ghidorah.test" target="11" />
+      <module name="Hues.main" target="11" />
+      <module name="Hues.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

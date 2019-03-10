@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ghidorah.iml" filepath="$PROJECT_DIR$/Ghidorah.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ghidorah.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ghidorah.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ghidorah.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ghidorah.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hues.iml" filepath="$PROJECT_DIR$/Hues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hues.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Hues.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hues.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Hues.test.iml" />
     </modules>
   </component>
 </project>

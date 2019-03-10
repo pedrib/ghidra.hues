@@ -1,22 +1,28 @@
-# Ghidorah
+# ghidra.hues
 
-#### Ghidra - Ghidorah Plugin
+#### Ghidra: Hues - The Color Plugin
 
 ## Brief
 
-This is a simple plugin which provides different colors to the GHIDRA decompiler's environment.
+This is a simple plugin which provides different colors to GHIDRA environment.
 
 ## Demo
 
-![](./doc/images/J3X1b81gfg.gif)
+![](./doc/images/MPeg6GJ4Zr.gif)
 
-## Todo
+## Recent Todos
 
-+ Taskbar Icon
-+ Update Documentation
-+ Display Preview Sample
-+ Auto Configuration Saving
-+ Selected Window Colorization
+- [x] Taskbar Icon
+- [x] Clean Source Code
+- [x] Profile Management
+- [ ] Update Documentation
+- [x] Display Preview Sample
+- [x] Auto Configuration Saving
+- [ ] Selected Window Colorization
+
+## Origin
+
++ [issues #13](https://github.com/NationalSecurityAgency/ghidra/issues/13)
 
 ## License
 
