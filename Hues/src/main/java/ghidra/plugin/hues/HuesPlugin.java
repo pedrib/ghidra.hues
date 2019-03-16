@@ -20,7 +20,7 @@ import resources.ResourceManager;
     packageName = "Hues",
     category = PluginCategoryNames.SUPPORT,
     shortDescription = "The Simple Color Changing Plugin",
-    description = "The Simple Color Changing Plugin - by quosego <https://github.com/quosego>")
+    description = "The Simple Color Changing Plugin - by quosego 'https://github.com/quosego'")
 // @formatter:on
 
 /**
