@@ -2,7 +2,7 @@ package ghidra.plugin.hues;
 
 import docking.ActionContext;
 import docking.ComponentProvider;
-import docking.DockingTool;
+import docking.Tool;
 import docking.WindowPosition;
 import docking.action.DockingAction;
 import docking.action.DockingActionIf;
@@ -72,12 +72,12 @@ public class HuesProvider extends ComponentProvider {
   }
 
   @Override
-  protected void addLocalAction(DockingActionIf action) {
+  public void addLocalAction(DockingActionIf action) {
     super.addLocalAction(action);
   }
 
   @Override
-  protected void removeLocalAction(DockingAction action) {
+  public void removeLocalAction(DockingAction action) {
     super.removeLocalAction(action);
   }
 
@@ -267,7 +267,7 @@ public class HuesProvider extends ComponentProvider {
   }
 
   @Override
-  public DockingTool getTool() {
+  public Tool getTool() {
     return super.getTool();
   }
 
