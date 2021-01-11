@@ -5,7 +5,7 @@ I did not write this code and do not support it for more than what I need to get
 
 The original README is below. The releases link is broken, so you will need to build this plugin yourself to get it working in Ghidra.
 
-~ Pedro Ribeiro (pedrib_at_gmail.com)
+~ Pedro Ribeiro (pedrib_at_gmail_dot_com)
 
 ------------
 
