@@ -1,8 +1,9 @@
 ### NOTE: this project was originally created by ["quosego"][ref-self]. 
 It was shared in a GitHub repository and then deleted by the author. Since the Apache License permits it, I am sharing it here as the original repo does not exist any more.
+
 I did not write this code and do not support it for more than what I need to get it working for me. Having said that, I usually push all changes I make to this repo so it should work out of the box in the latest Ghidra versions.
 
-The original README is below.
+The original README is below. The releases link is broken, so you will need to build this plugin yourself to get it working in Ghidra.
 
 ~ Pedro Ribeiro (pedrib_at_gmail.com)
 
